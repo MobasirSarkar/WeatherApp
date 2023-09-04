@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        "Bg-Img": "url('src/images/BgImg.jpg')",
+        "Bg-Img": "url('./../src/images/BgImg.jpg')",
         yellowSky: "url('src/images/yellowSky.jpg')",
         clearSky: "url('src/images/clearSky.jpg')",
         orangeSky: "url('src/images/orangeSky.jpg')",
